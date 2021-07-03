@@ -1,0 +1,14 @@
+
+
+    .manu{
+        flex-direction: column;
+    }
+    .manu a{
+        background-color: crimson;
+        text-align: center;
+        margin: 10px 0;
+        border-radius: 10px;
+    }
+
+
+
